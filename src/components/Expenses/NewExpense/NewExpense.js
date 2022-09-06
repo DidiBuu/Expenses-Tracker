@@ -26,7 +26,7 @@ const NewExpense = (props) => {
                 onSaveExpenseData = {onSaveExpenseDataHandler} onStopEditing={stopEditing}/>}
 
         </div>
-    )
+    )// Nova izmjena
 };
 
 export default NewExpense;
